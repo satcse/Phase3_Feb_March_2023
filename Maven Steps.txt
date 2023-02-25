@@ -1,0 +1,12 @@
+Ant - Very Old, Traditional - Not used much.
+Maven - Dependency and Packaging Manager.
+Gradle - 10%
+
+Maven - 90% of the Industry's Applications.
+
+Steps:
+1.) Open up the STS IDE.
+2.) File -> New -> Other
+3.) Other -> Maven Project.
+4.) Select the "Create a Simple Project(skip archetype selection".
+5.) Enter the company name as group Id and project name as Artifact ID and Click on Finish!
